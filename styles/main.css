@@ -1,0 +1,73 @@
+body {
+    background-color: #e0dcdc !important;
+}
+
+#mainPage {
+}
+
+.btn-group {
+    width:100%;
+    margin:auto !important;
+    padding-bottom: 10px;
+}
+
+#decrementButton, #resetButton, #incrementButton {
+    color: white;
+    background-color:#800000;
+    text-transform: unset !important;
+    width:100%;
+}
+
+#colorCol{
+    padding:2px;
+}
+
+#blueButton{
+    color:white;
+    background-color:blue;
+    text-transform: unset !important;
+    width:100%;
+}
+
+#greenButton{
+    color:white;
+    background-color:green;
+    text-transform: unset !important;
+    width:100%
+}
+
+#redButton{
+    color:white;
+    background-color:red;
+    text-transform: unset !important;
+    width:100%
+}
+
+#purpleButton{
+    color:white;
+    background-color:purple;
+    text-transform: unset !important;
+    width:100%
+}
+
+#counterText {
+    color:black;
+    font-size: 4em;
+    text-align: center;
+}
+
+#header{
+    background-color: #800000;
+}
+
+#colorContainer{
+    width:200px;
+    margin: 20px;
+}
+
+#favoriteColorBox{
+    background-color:#800000;
+    line-height: 100px;
+    text-align:center;
+    color:white;
+}
